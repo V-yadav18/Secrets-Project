@@ -17,7 +17,7 @@ Welcome to the Secrets Board Project! This project allows users to discover amus
 
 ## Live Demo
 
-   Check out the live demo [here]!(https://secrets-board.onrender.com/).    
+   Check out the live demo [here](https://secrets-board.onrender.com/).    
     
 ## License 
 
