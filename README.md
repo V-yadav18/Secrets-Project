@@ -11,9 +11,13 @@ Welcome to the Secrets Board Project! This project allows users to discover amus
    ```bash
    git clone https://github.com/your-username/secrets-board.git ```
 
-3.  Install dependencies:
+2. *Install dependencies:*
   
     ```npm install```
+
+3. *Working:*
+
+   Refresh the page to get new secrets...
 
 ## Live Demo
 
